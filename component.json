@@ -1,0 +1,10 @@
+{
+    "name": "isstream",
+    "description": "Determine if an object is a Stream",
+    "repos": "https://github.com/rvagg/isstream.git",
+    "main": "isstream.js",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {},
+    "version": "0.1.1"
+}
